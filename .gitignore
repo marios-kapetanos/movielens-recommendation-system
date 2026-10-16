@@ -1,0 +1,23 @@
+# MovieLens dataset
+*.dat
+ml-10m/
+data/
+
+# Python environments
+.venv/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
